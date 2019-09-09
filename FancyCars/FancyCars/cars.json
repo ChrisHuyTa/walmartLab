@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "name": "thor",
+    "year": "2017",
+    "make": "Tesla",
+    "model": "Model S"
+}, {
+    "id": 2,
+    "name": "captain america",
+    "year": "2018",
+    "make": "Tesla",
+    "model": "Model 3"
+}, {
+    "id": 3,
+    "name": "hulk",
+    "year": "2018",
+    "make": "Tesla",
+    "model": "Model X"
+}, {
+    "id": 4,
+    "name": "iron man",
+    "year": "2019",
+    "make": "Tesla",
+    "model": "Model Y"
+}, {
+    "id": 5,
+    "name": "hawkeye",
+    "year": "2019",
+    "make": "Tesla",
+    "model": "Model Y"
+}, {
+    "id": 6,
+    "name": "black widow",
+    "year": "2018",
+    "make": "Tesla",
+    "model": "Model 3"
+}, {
+    "id": 7,
+    "name": "black panther",
+    "year": "2019",
+    "make": "Tesla",
+    "model": "Model 3"
+}]
