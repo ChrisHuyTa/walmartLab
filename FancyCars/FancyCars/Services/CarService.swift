@@ -17,6 +17,8 @@ class CarService {
     private let jsonDecoder = JSONDecoder()
 
     
+    //assuming the api taking page as parameter to fetch next set of records
+    //right now it just returns mock value from cars.json
     func fetchCars(page: Int = 0, completion: @escaping (Result<[FancyCar], APIServiceError>) -> Void) {
         guard let url = Bundle.main.url(forResource: "cars", withExtension: "json") else {
             completion(.failure(.noData))

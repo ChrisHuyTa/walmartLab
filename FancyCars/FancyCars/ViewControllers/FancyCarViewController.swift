@@ -71,7 +71,7 @@ class FancyCarViewController: UIViewController, CarCellDelegate {
     
     func didBuy(from cell: CarTableViewCell) {
 //        let selectedCar = carList[cell.tag]
-        //call buy car service to handle it
+        //call buycar service to handle it
     }
 }
 
